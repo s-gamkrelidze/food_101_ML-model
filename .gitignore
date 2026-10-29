@@ -1,0 +1,7 @@
+.venv*
+venv/
+best_model/
+data/
+saved_models/
+__pycache__/
+*.py[cod]
